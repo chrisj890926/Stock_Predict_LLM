@@ -1,0 +1,3 @@
+([('stock_analyzer',
+   '/Users/tangjiahong/Dropbox/Pytorch/stock_env/stock_predict/dist/stock_analyzer',
+   'EXECUTABLE')],)

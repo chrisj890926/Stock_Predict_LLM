@@ -1,4 +1,4 @@
-lib/python3.9/site-packages/tensorflow/libtensorflow_cc.2.dylib
+libtensorflow_cc.2.dylib
 stock_predict/build/
 stock_predict/dist/
-lib/python3.9/site-packages/clang/native/libclang.dylib
+libclang.dylib
